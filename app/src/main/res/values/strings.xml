@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GLCameraDemo</string>
+    <string name="camera_opengl_activity"><![CDATA[开启美颜相机]]></string>
+    <string name="permission_denied">权限被拒绝</string>
+</resources>
